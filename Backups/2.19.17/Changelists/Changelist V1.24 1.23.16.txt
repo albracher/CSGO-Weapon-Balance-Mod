@@ -1,0 +1,41 @@
+Pistols
+
+P250, Five-Seven, Tec-9
+Accuracy rework, the new tier will be
+Five-Seven 
+P250
+Tec-9
+All Spread values buffed from 1.40 to 1.25
+
+Five-Seven, Tec-9
+AP nerfed by 2.5%
+Range nerfed slightly
+
+P250
+Accuracy buffed by 6% for crouching 
+Accuracy buffed by 10% for standing
+
+CZ-75 Auto
+Damage buffed from 30 to 32
+Accuracy buffed by around 5-6%
+
+SMGs
+P90
+ROF buffed from 800 to 857
+Kill Award nerfed from 450 to 300
+
+Heavy
+All shotguns have a accuracy nerf by 8 percent
+
+Nova, MAG-7
+Range nerfed by 5 percent
+
+Sawed-Off
+Range nerfed by 3 percent
+
+XM1014
+Range nerfed by 10 percent
+
+Rifles
+M4A1-S
+20/60 ammo reduced to 20/40

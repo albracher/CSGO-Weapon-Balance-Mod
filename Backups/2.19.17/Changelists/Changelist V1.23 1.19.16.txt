@@ -1,0 +1,15 @@
+Pistols
+USP-S
+With Suppressor,
+More accurate on first shot, but spraying accuracy is worse
+Moving accuracy is better by 25 percent
+
+Rifles
+
+M4A1-S
+Values set to slightly better than M4A4
+Fire Rate nerfed from 650 to 600
+
+SG556
+Damage increased from 38 to 42
+Fire rate set back a little 

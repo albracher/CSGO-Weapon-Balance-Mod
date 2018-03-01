@@ -1,0 +1,25 @@
+Pistols:
+USP-S 
+AP buffed to 60%
+Ammo nerfed from 48 to 24 
+
+P2000 
+AP buffed to 55%
+Standing/Crouching First Shot Accuracy buffed by 8%
+
+Desert Eagle
+Recoil to Vanilla Values
+
+Rifles:
+All Moving Accuracy nerfed by 33%
+M4A1-S
+AP nerfed from 72.5% to 70%
+FAMAS
+Burst Recoil set back to SlothSquadron
+
+Heavy:
+M249 
+Price is $5200 again
+
+Negev:
+Accuracy/Recoil values set to SlothSquadron

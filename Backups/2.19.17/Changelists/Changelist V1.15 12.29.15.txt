@@ -1,0 +1,12 @@
+Pistols:
+Desert Eagle
+Recoil has been increased slightly higher
+Base damage buffed from 63 to 75, which will make it more damage over range
+
+R8 Revolver
+Ammo reduced from 6/6 to 4/4
+Moving accuracy nerfed
+
+Heavy:
+M249 
+Recoil not "non-existent" anymore

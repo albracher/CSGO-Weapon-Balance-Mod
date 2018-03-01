@@ -1,0 +1,29 @@
+Pistols:
+USP-S reserve ammo increased from 24 to 48
+
+Shotguns:
+All shotgun reserve ammo set to multiplied values
+
+SMGs:
+All recoil and inaccuracy values reset to vanilla values
+MP9 AP set to 62.5%
+MAC-10 and PP-Bizon AP set to 60%
+MP7 AP set to 65%
+UMP-45 AP set to 70%
+
+UMP-45 
+Crouching and Standing accuracy increased by 20 percent
+Per shot inaccuracy increased by 5 percent
+
+PP-Bizon
+Per shot inaccuracy increased by 5 percent
+Crouching Accuracy increased by 10 percent
+Standing Accuracy increased by 8 percent
+
+Rifles:
+M4A1-S reserve ammo increased from 40 to 60 
+M4A1-S Accuracy and Recoil values set to SlothSquadron
+
+M4A4 AP set to 72.5%
+M4A4 damage increased from 33 to 34
+M4A4 Accuracy values set to SlothSquadron, will revert to V1.0 nerf soon

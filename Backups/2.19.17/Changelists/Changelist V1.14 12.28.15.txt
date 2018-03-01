@@ -1,0 +1,7 @@
+Pistols
+P2000
+AP buffed from 55% to 57.5%
+
+Rifles
+M4A4, AK-47
+First Shot Accuracy Standing/Crouching Accuracy set to SlothSquadron Values

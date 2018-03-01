@@ -1,0 +1,43 @@
+Pistols:
+P2000
+AP nerfed from 57.5% to 55%
+
+USP-S
+All data is now mostly transferred over to the P2000 files
+AP nerfed from 60% to 57.5%
+
+CZ75-Auto
+Standing accuracy nerfed by 10%
+Crouching accuracy nerfed by 15%
+Firing inaccuracy nerfed by 5%
+AP nerfed from 80% to 77.5%
+Damage nerfed from 36 to 34
+
+SMGs:
+UMP-45
+Crouching Accuracy nerfed by 10%
+Standing Accuracy nerfed by 15%
+
+Rifles:
+FAMAS:
+AP nerfed from 72.5% to 70%
+Crouching Accuracy buffed by 8%
+Standing Accuracy buffed by 5%
+
+M4A1-S 
+All data is now mostly transferred over to the M4A4 files
+
+
+
+USP-S Silenced
+10% better crouching accuracy
+8% better standing accuracy
+12% better moving accuracy
+4% worse accuracy per shot
+
+M4A1-S Silenced
+6% better crouching accuracy
+8% better standing accuracy
+10% better moving accuracy
+5% worse accuracy per shot
+

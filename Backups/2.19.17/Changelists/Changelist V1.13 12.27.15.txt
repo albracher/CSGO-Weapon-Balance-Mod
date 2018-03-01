@@ -1,0 +1,14 @@
+Heavy:
+Nova
+Damage nerfed from 29 to 27 per pellet
+Spread buffed by a 12.5% tightening
+
+XM1014
+Accuracy/Recoil values set to SlothSquadron Values
+
+SWAG-7 
+AP nerfed from 80% to 77.5%
+
+Sawed-Off
+Accuracy/Recoil values set to SlothSquadron Values
+AP nerfed from 80% to 77.5%

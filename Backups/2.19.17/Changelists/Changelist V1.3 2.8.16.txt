@@ -1,0 +1,15 @@
+Rifles
+AUG
+RPM set to 665 
+Zoomed RPM set to 450
+
+SG556
+RPM set to 600
+Zoomed RPM set to 375
+
+Both rifles' accuracy buffed by 15%
+
+SSG 08 
+Damage reduced from 92 to 89
+Crouching zoomed in accuracy buffed from 2.8 to 1.5
+Standing zoomed in accuracy buffed from 3.0 to 1.8

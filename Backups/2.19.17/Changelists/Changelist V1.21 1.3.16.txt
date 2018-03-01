@@ -1,0 +1,27 @@
+Pistols
+Dual Berettas
+AP buffed from 65% to 67.5%
+Standing/Crouching accuracy buffed by 6%
+
+Five-Seven
+AP nerfed from 85% to 82.5%
+Crouching accuracy buffed by 6%
+Standing accuracy buffed by 7%
+
+Tec-9
+More consistent over range
+Crouching accuracy buffed by 4%
+Standing accuracy buffed by 6%
+
+Desert Eagle
+Reset timer set to SlothSquadron values
+
+Rifles
+FAMAS
+Crouching accuracy buffed by 8%
+Standing accuracy buffed by 10%
+Per shot accuracy buffed by 5%
+
+SG-556
+ROF set to 600 from 550, vanilla value is 660
+Zoomed in ROF same as AUG now

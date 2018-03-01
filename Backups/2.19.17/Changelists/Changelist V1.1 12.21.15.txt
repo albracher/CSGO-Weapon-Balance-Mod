@@ -1,0 +1,39 @@
+Pistols
+Standing Accuracy = 1.15 percent nerf
+Crouching Accuracy = 1.12 percent nerf
+
+Five-Seven, Tec-9
+Damage = 30
+Standing Accuracy = 1.10 percent nerf
+Crouching Accuracy = 1.12 percent nerf
+Tec-9 Standing/Crouching Accuracy = 1.2 percent of Five-Seven values
+
+Desert Eagle 
+Recoil in between vanilla and SlothSquadron
+Damage reduction
+
+
+Rifles: M4A4, AK47, Galil AR, FAMAS
+
+M4A4 and AK47
+Standing Accuracy = 1.18 percent nerf
+Crouching Accuracy = 1.14 percent nerf
+
+Galil AR
+Standing Accuracy = 1.08 percent nerf
+Crouching Accuracy = 1.06 percent nerf
+
+FAMAS:
+Standing Accuracy = 1.15 percent nerf
+Crouching Accuracy = 1.12 percent nerf
+
+All Auto rifles (except AUG, SG556) get 10 percent inaccuracy nerf when spraying
+(All rifles have their per shot inaccuracy reduced by 10 percent)
+
+AUG and SG556, SlothSquadron values applied 
+
+SMGs:
+Accuracy values in between SlothSquadron and Vanilla (except P90)
+Some Armor Pen. values changed, small buffs
+P90 ROF set to 800, damage reduced, moving accuracy decreased
+

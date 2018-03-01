@@ -1,0 +1,135 @@
+WeaponData
+{
+    // particle muzzle flash effect to play when fired
+    MuzzleFlashEffect_1stPerson     weapon_muzzle_flash_pistol
+    MuzzleFlashEffect_3rdPerson     weapon_muzzle_flash_pistol
+    HeatEffect                      weapon_muzzle_smoke
+    HeatPerShot                     0.3
+
+    // model for the shell casing to eject when we fire bullets
+    EjectBrassEffect                weapon_shell_casing_9mm
+
+    // the tracer particle effect and frequency
+    TracerEffect                    weapon_tracers_pistol
+    // 0 = never, 1 = every shot, 2 = every other, etc
+    TracerFrequency                 1
+
+    MaxPlayerSpeed                  235
+    WeaponType                      Pistol
+    FullAuto                        0
+    WeaponPrice                     800
+    WeaponArmorRatio                1.864
+    CrosshairMinDistance            8
+    CrosshairDeltaDistance          3
+    Team                            ANY
+    BuiltRightHanded                1
+    PlayerAnimationExtension        pistol
+    
+    CanEquipWithShield              1
+    
+    // Weapon characteristics:
+    Penetration                     2
+    Damage                          65
+    Range                           4096
+    RangeModifier                   0.85
+    Bullets                         1
+    CycleTime                       0.225
+
+    
+    // accuracy model parameters
+       Spread                       1.40
+    InaccuracyCrouch                4.80
+    InaccuracyStand                 7.40
+    InaccuracyJump                  371.55
+    InaccuracyLand                  0.730
+    InaccuracyLadder                37.61
+    InaccuracyFire                  52.50
+    InaccuracyMove                  26.33
+                                 
+	RecoveryTimeCrouch              0.379927
+    RecoveryTimeStand               0.455912
+    
+    RecoilAngle                     0.0
+    RecoilAngleVariance             70
+    RecoilMagnitude                 60
+    RecoilMagnitudeVariance         0
+    RecoilSeed                      1454
+    
+    // Weapon data is loaded by both the Game and Client DLLs.
+    printname                       #SFUI_WPNHUD_DesertEagle
+    viewmodel                       models/weapons/v_pist_deagle.mdl
+    playermodel                     models/weapons/w_pist_deagle.mdl
+    shieldviewmodel                 models/weapons/v_shield_de_r.mdl    
+    anim_prefix                     anim
+    bucket                          1
+    bucket_position                 1
+
+    clip_size                       7
+    default_clip		    -1
+    default_clip2		    -1
+    
+    primary_ammo                    BULLET_PLAYER_50AE
+    secondary_ammo                  None
+
+    weight                          7
+    item_flags                      0
+    
+    rumble                          2
+    
+    // Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 single_shot sounds)
+    SoundData
+    {
+        //reload                    Default.Reload
+        //empty                     Default.ClipEmpty_Rifle
+        single_shot                 Weapon_DEagle.Single
+    }
+
+    // Weapon Sprite data is loaded by the Client DLL.
+    TextureData
+    {
+        weapon
+        {
+                font        CSweaponsSmall
+                character   F
+        }
+        weapon_s
+        {   
+                font        CSweapons
+                character   F
+        }
+        ammo
+        {
+                font        CSTypeDeath
+                character   U
+        }
+        crosshair
+        {
+                file        sprites/crosshairs
+                x           0
+                y           48
+                width       24
+                height      24
+        }
+        autoaim
+        {
+                file        sprites/crosshairs
+                x           0
+                y           48
+                width       24
+                height      24
+        }
+    }
+    ModelBounds
+    {
+        Viewmodel
+        {
+            Mins    "-7 -3 -14"
+            Maxs    "19 10 -2"
+        }
+        World
+        {
+            Mins    "-1 -3 -2"
+            Maxs    "13 4 6"
+        }
+    }
+}

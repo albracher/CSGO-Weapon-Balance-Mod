@@ -1,0 +1,37 @@
+SMGs
+All moving accuracies set to SlothSquadron values
+
+MP9
+Crouching/Standing accuracy nerfed by 10%
+Inaccuracy per shot nerfed by 8%
+Moving accuracy buffed by 5%
+
+Mac-10
+Crouching accuracy buffed by 5%
+Standing accuracy nerfed by 4%
+Inaccuracy per shot nerfed by 8%
+
+MP7
+Standing accuracy buffed by 5%	
+Moving accuracy nerfed by 12%
+
+UMP-45
+Crouching accuracy buffed by 15%
+Standing accuracy buffed by 18%
+Inaccuracy per shot nerfed by 6%
+
+P90
+Kill award buffed from 300 to 450
+
+PP-Bizon
+Crouching accuracy buffed by 10%
+Standing accuracy buffed by 12%
+Accuracy per shot nerfed by 8%
+
+Rifles
+Galil AR
+AP nerfed from 77.5% to 75%
+
+SG556
+AP nerfed from 80% to 77.5%
+
